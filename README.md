@@ -4,6 +4,8 @@ A network simulator that runs in the browser, built for CCNA-style practice. Bui
 
 **Open it:** https://siddhanth-mani.github.io/packetlab/
 
+![PacketLab topology workspace with a router, a switch and end devices](docs/screenshot.jpg)
+
 No account, no server and no install. Everything runs on your device, and projects are saved in your browser.
 
 ## What you can do
